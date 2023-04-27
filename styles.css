@@ -148,3 +148,12 @@ a {
     height: 160px;
     border-radius: 16px;
 }
+
+.content1 .img-container .img .text {
+    display: flex;
+    font-size: 17.7px;
+    width: 160px;
+    text-align: center;
+    color: #595e66;
+}
+
