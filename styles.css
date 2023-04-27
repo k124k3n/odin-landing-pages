@@ -58,3 +58,8 @@ a {
     padding-top: 15.7vh;
     padding-bottom: 16vh;
 }
+
+.header-content > *{
+    flex: 1;
+}
+
