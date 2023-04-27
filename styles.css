@@ -21,10 +21,10 @@ time, mark, audio, video {
 
 body > * {
     padding: 2.7vh 16vw 2.7vh 15.3vw;
+    font-family: "Roboto";
 }
 
 .header {
-    font-family: "Roboto";
     display: flex;
     font-weight: 300;
     align-items: center;
