@@ -129,8 +129,17 @@ a {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 49px;
+    gap: 46px;
     padding-top: 7vh;
+}
+
+.content1 .img-container .img {
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
 }
 
 .content1 .img-container .img .box {
