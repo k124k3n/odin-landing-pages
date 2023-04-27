@@ -25,4 +25,12 @@ body > * {
     padding: 2.7vh 16vw 2.7vh 15.3vw;
 }
 
+.header {
     font-family: "Roboto";
+    display: flex;
+    font-weight: 300;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+}
