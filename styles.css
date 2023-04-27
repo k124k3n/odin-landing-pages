@@ -114,3 +114,12 @@ a {
     padding-top: 7.4vh;
 }
 
+.content1 .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
