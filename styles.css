@@ -165,4 +165,9 @@ a {
     justify-content: center;
 }
 
+.quote > * {
+    padding-left: 6.5vw;
+    padding-right: 2.5vw;
+}
+
 }
