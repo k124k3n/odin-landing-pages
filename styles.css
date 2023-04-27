@@ -203,3 +203,26 @@ a {
     border-radius: 10px;
 }
 
+.banner .content {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5vh 10vw;
+    gap: 10px;
+}
+
+.banner .content .left {
+    flex: 4;
+    margin-right: auto;
+}
+
+.banner .content button {
+    margin-left: auto;
+}
+.banner .content .left .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
