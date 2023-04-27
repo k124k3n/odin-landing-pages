@@ -200,7 +200,7 @@ a {
     background-color: #3882F6;
     width: 100%;
     height: 25vh;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 .banner .content {
@@ -208,7 +208,7 @@ a {
     width: 100%;
     align-items: center;
     justify-content: space-between;
-    padding: 5vh 10vw;
+    padding: 5vh 7vw;
     gap: 10px;
 }
 
@@ -225,4 +225,10 @@ a {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.banner .title {
+    color: #F9FAF8;
+    font-size: 25px;
+    font-weight: 700;
 }
