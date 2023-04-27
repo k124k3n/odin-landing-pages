@@ -62,6 +62,7 @@ a {
 
 .header-content > *{
     flex: 1;
+    margin-bottom: 30px;
 }
 
 .left {
@@ -95,4 +96,15 @@ a {
     height: 37px;
     width: 130px;
     margin-top: 10px;
+}
+
+.hc-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6D747D;
+    border: 0px;
+    font-size: 17.45px;
+    font-weight: 400;
+    color: #F9FAF8;
 }
