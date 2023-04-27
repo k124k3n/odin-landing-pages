@@ -57,6 +57,7 @@ a {
     height: 40vh;
     padding-top: 15.7vh;
     padding-bottom: 16vh;
+    gap: 30px;
 }
 
 .header-content > *{
@@ -77,6 +78,21 @@ a {
 
 .hc-content {
     font-size: 18px; 
-    color: #E5E7EB;
-    font-weight: 300;
+    font-weight: 400;
+    color: #e5e7ebe1;
+}
+
+.hc-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882F6;
+    border: 0px;
+    font-size: 17.45px;
+    font-weight: 600;
+    color: #F9FAF8;
+    border-radius: 7px;
+    height: 37px;
+    width: 130px;
+    margin-top: 10px;
 }
