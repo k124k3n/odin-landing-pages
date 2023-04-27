@@ -63,3 +63,8 @@ a {
     flex: 1;
 }
 
+.hc-title {
+    font-size: 47.3px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
