@@ -123,3 +123,13 @@ a {
     font-weight: 900;
     color: #1F2937;
 }
+
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 49px;
+    padding-top: 7vh;
+}
+
