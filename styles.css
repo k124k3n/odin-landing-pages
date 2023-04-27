@@ -184,3 +184,11 @@ a {
     padding-right: 5.5vw;
     color: #1F2937;
 }
+
+.banner-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 50vh;
+}
