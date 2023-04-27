@@ -40,3 +40,10 @@ body > * {
     font-weight: 700;
     margin-right: auto;
 }
+
+.header-link {
+    margin-left: auto;
+    display: flex;
+    gap: 25px;
+    font-size: 18px;
+}
