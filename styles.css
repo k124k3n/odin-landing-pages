@@ -170,4 +170,9 @@ a {
     padding-right: 2.5vw;
 }
 
+.quote .text {
+    font-weight: 300;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
 }
