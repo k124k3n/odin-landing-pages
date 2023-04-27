@@ -176,3 +176,11 @@ a {
     font-style: italic;
     color: #1F2937;
 }
+
+.quote .author {
+    font-weight: 700;
+    font-size: 24px;
+    text-align: right;
+    padding-right: 5.5vw;
+    color: #1F2937;
+}
